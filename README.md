@@ -37,37 +37,39 @@ The project aims to develop and redesign the identity and visual experience of *
 
 ## 📌 Task Distribution
 
-### Sama Ahmed Ali Ahmed
+## Sama Ahmed Ali
 - Logo + variations  
-- Color palette  
-- Presentation  
+- UI Design (User Interface)
+- Color Palette
+- Presentation
+- Brochure
 
-### Hagar Ayman Gaber Sadiq
-- Brand pattern  
-- Social media mockups  
-- Motion video  
-- Fonts  
+## Hagar Ayman Gaber
+- Pattern Preparation
+- Printing Mockups Preparation
+- Motion Video
+- Font Preparation
 
-### Menna Nasser Mohamed Kamal
-- Flyer  
-- Banners (billboard / roll-up)  
-- Business card  
-- Target audience research  
+## Menna Nasser Mohamed
+- Flyer
+- Banners [Billboard / Roll-up]
+- Business Card
+- Target Audience Identification
 
-### Nada Mohamed Abd el Karim Hassan
-- Brand research  
-- Booklet  
-- Company folder  
+## Nada Mohamed Abd el Karim
+- Brand Information Collection
+- Company Booklet
+- Company Folder Design
 
-### Shahd Ahmed Mohammad Wafa
-- Three posters  
-- Stationery (notebook)  
-- Simple UI design (Photoshop)  
+## Shahed Ahmed Mohamed
+- 3 Posters
+- Company Stationery Design [Notebook]
+- UI Transitions on Figma
 
-### Sondos Sheref Abdaldaayim Siam
-- Six social media designs  
-- Print mockups  
-- Stationery (invoice)  
+## Sondos Sherif AbdalDaayim
+- 6 Social Media Designs
+- Social Media Mockups Preparation
+- Company Stationery [Invoice]
 
 ---
 
