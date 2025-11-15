@@ -66,7 +66,7 @@ The project aims to develop and redesign the identity and visual experience of *
 - Letter head
 
 ## Sondos Sherif AbdalDaayim
-- 6 Social Media Designs
+- 8 Social Media Designs
 - Social Media Mockups Preparation
 - Company Folder Design
 
@@ -81,9 +81,9 @@ The project aims to develop and redesign the identity and visual experience of *
 - **Week 6 (27SEP - 4OCT):** Flyers, posters, banners, UI, mockups  
 - **Week 7 (4OCT - 10OCT):** Folder + banners + UI + social media  
 - **Week 8 (11OCT - 17OCT):** Continue designs  
-- **Week 9 (18OCT - 24OCT):** Folder, PowerPoint, mockups  
-- **Week 10 (25OCT - 31OCT):** Finalize banners, business card, mockups  
-- **Week 11 (1NOV - 7NOV):** Social media, motion video, booklet, UI, stationery, Brochure
+- **Week 9 (18OCT - 24OCT):** Folder, Presentation, mockups  
+- **Week 10 (25OCT - 31OCT):** Finalize banners, business card, mockups, ID Design
+- **Week 11 (1NOV - 7NOV):** Social media, motion video, booklet, UI, stationery
 - **Week 12 (8NOV - 14NOV):** Business card, presentation, video, booklet, stationery
 - **Week 13 (15NOV - 21NOV):** Continue final designs  
 - **Week 14 (22NOV - 28NOV):** Assemble + modifications + review  
