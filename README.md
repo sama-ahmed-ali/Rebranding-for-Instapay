@@ -42,7 +42,6 @@ The project aims to develop and redesign the identity and visual experience of *
 - UI Design (User Interface)
 - Color Palette
 - Presentation
-- Brochure
 
 ## Hagar Ayman Gaber
 - Pattern Preparation
@@ -59,17 +58,17 @@ The project aims to develop and redesign the identity and visual experience of *
 ## Nada Mohamed Abd el Karim
 - Brand Information Collection
 - Company Booklet
-- Company Folder Design
+- ID Design
 
 ## Shahed Ahmed Mohamed
 - 3 Posters
-- Company Stationery Design [Notebook]
-- UI Transitions on Figma
+- Notebook
+- Letter head
 
 ## Sondos Sherif AbdalDaayim
 - 6 Social Media Designs
 - Social Media Mockups Preparation
-- Company Stationery [Invoice]
+- Company Folder Design
 
 ---
 
