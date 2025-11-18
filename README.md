@@ -61,7 +61,7 @@ The project aims to develop and redesign the identity and visual experience of *
 - ID Design
 
 ## Shahed Ahmed Mohamed
-- 3 Posters
+- 2 Posters
 - Notebook
 - Letter head
 
